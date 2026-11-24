@@ -2,6 +2,7 @@
   "devices": [
     "b7b94bece13476216a5fe9f3"
     "9debb118a5307745911e5ffd"
+    "a0f51626cb9827251d3e7c27"
   ],
   "note": "一行一个设备码放进 devices 数组。修改后提交，GitHub Pages 会在 1-2 分钟内更新。App 端有 24h 缓存，用户重启 App 即可重新校验。"
 }
